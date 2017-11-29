@@ -1,0 +1,9 @@
+\BOOKMARK [1][-]{section.1}{Introduction: N-body simulation of an open galactic cluster}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Leap-Frog algorithm}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Runge-Kutta 4 \(RK4\)}{section.1}% 3
+\BOOKMARK [1][-]{section.2}{Methods}{}% 4
+\BOOKMARK [2][-]{subsection.2.1}{Leap-Frog}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.2}{RK4}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.3}{Comparison}{section.2}% 7
+\BOOKMARK [1][-]{section.3}{Results}{}% 8
+\BOOKMARK [1][-]{section.4}{Conclusion}{}% 9
